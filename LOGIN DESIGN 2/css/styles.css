@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    background-color: white;
+}
+.my{
+    background-color: white;
+    height: 650px;
+    min-width: 30px;
+}
+.col-md-1{
+    height: 650px;
+    background-color: lightgray;
+}
+.myform{
+    height: 660px;
+    background-image: url(../images/img6.jpg);
+    background-size: cover;
+    border-top: 6px solid black;
+}
+.form{
+    
+}
+.in{
+   margin-top: 100px;
+    margin-left: 30px;
+}
+ul a{
+    font-size: 20px;
+    color: white;
+    margin-left: 20px;
+}
+.underline{
+    font-size: 25px;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    padding: 5px;
+}
+.up{
+    color: gainsboro;
+}
+.user{
+    color: gainsboro;
+    margin-left: 45px;
+}
+.control{
+    width: 400px;
+    height: 40px;
+    border-radius: 45px;
+    opacity: 0.3;
+}
+.check{
+    margin-left: 45px;
+    color: white
+}
+.check1{
+    padding: 10px;
+    background-color: blue;
+}
+.horizontal{
+    width: 400px;
+    margin-left: 40px;
+}
+.signin{
+    width: 400px;
+    border-radius: 45px;
+    height: 40px;
+    margin-left: 45px;
+    color: white;
+    background-color: dodgerblue;
+}
+.forgot{
+    text-align: center;
+    margin-right: 50px;
+}
+ol a{
+    color: gainsboro;
+}
